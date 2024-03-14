@@ -501,22 +501,3 @@
 
 
 
-n=5
-for i in  range(n):
-    for j in range(n+n-1):
-        if i+j>=n-1 and j-i<=n-1:
-            print("H",end=" ")
-        else: print(" ",end=" ")
-    print()
-for i in range(n+1):
-    print("""   H H H H H H                     H H H H H H""")
-for i in range(n//2+1):
-    print("""       H H H H H H H H H H H H H H H H H H """)
-for i in range(n+1):
-    print("""   H H H H H H                     H H H H H H""")
-for i in  range(n):
-    for j in range(n+n-1):
-        if i<=j and j+i<=2*n-2: 
-            print("H",end=" ")
-        else: print(" ",end=" ")
-    print()
