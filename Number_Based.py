@@ -99,63 +99,8 @@
 
 
 
-# class mylist :
-#     def __init__(self,n):
-#         self.n=n
-#         self.l=[rm.randint(1,50) for i in range(self.n)]
-#         print(self.l)
-#     def prime(self):
-#         l2=[]
-#         for i in self.l:
-#             for j in range(2,i):
-#                 if i%j==0:
-#                     break
-#             else:
-#                 l2.append(i)
-#         if not l2:
-#             return -1
-#         else:
-#             return l2
-        
-#     def fact(self):
-#         d={}
-#         def fun(l,k=1):
-#             if l>0:
-#                 return fun(l-1,k*l)
-#             return k
-        
-#         for i in self.l:
-#             r=fun(i)
-#             d.update({i:r})
-#         return d
-
-# l=mylist(10)
-# print(l.prime())
-# print(l.fact())
 
 
-
-# n=int(input("n:"))
-# n1=1
-# val=ord("A")
-# for i in range(n):
-#     a=val
-#     for j in range(n):
-#         if i==j:
-#             print(n1,end=" ")
-#             n1+=1
-#         elif i>=j:
-#             print(chr(val),end=" ")
-#             val+=1
-#         else:
-#             print(" ",end=" ")
-#         while n1>9:
-#             n1=1
-#         while val>ord("Z"):
-#             val-26
-            
-#     print()
-#     val=a 
 
 
 
