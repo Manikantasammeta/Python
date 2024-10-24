@@ -294,7 +294,10 @@ Marks={"Raju":{"Eng":0,"Phy":90,"Math":46},
        "Sita":{"Math":46,"Eng":50,"Phy":45},
        "Mahesh":{"Eng":0,"Phy":19,"Math":99}}
 
-# students=list(Marks.keys())
+students=list(Marks.keys())
+print(students)
+print(Marks.items())
+
 # Score=[]
 # for name,mrk in Marks.items():                        # highest Marks
 #     m=0
@@ -317,16 +320,10 @@ Marks={"Raju":{"Eng":0,"Phy":90,"Math":46},
 # for i in zip(students,Math_marks,Pyh_marks,eng_marks):
 #     print(f"{i[0]}  {i[1]}  {i[2]}  {i[3]}")
 
-
-
-
 # for name,mrk in Marks.items():
 #     for sub,score in mrk.items():         who got zero '0'
 #         if score==0:
 #             print(name,sub)
-
-
-
 
 # students = list(Marks.keys())
 # print(students)
@@ -340,14 +337,6 @@ Marks={"Raju":{"Eng":0,"Phy":90,"Math":46},
 #             result.append((students[i], students[j]))
 # print(result)
 
-
-
-
-
-
-
-
-
 # pinky=0
 # raju=0
 # for name,marks in Marks.items():         # Avg between raju and pinky
@@ -360,15 +349,11 @@ Marks={"Raju":{"Eng":0,"Phy":90,"Math":46},
 #         raju=m
 # print(abs(raju-pinky)/3)
 
-
-
 # raju_total = sum(Marks["Raju"].values())
 # pinky_total = sum(Marks["pinky"].values())
 
 # total=abs(raju_total-pinky_total)
 # print(total/3)
-
-
 
 # c=0
 # nam=""
@@ -383,16 +368,16 @@ Marks={"Raju":{"Eng":0,"Phy":90,"Math":46},
 
 #output -->Sita 141
 
-std={"mani":{"age":15,"sub":{"Math":90,"sci":85,"eng":88}},
-     "reddy":{"age":25,"sub":{"Math":50,"sci":15,"eng":28}}
-     }
+# std={"mani":{"age":15,"sub":{"Math":90,"sci":85,"eng":88}},
+#      "reddy":{"age":25,"sub":{"Math":50,"sci":15,"eng":28}}
+#      }
 
-std.update({"gopi":{"age":21,"sub":{"math":22,"sci":88}}})
+# std.update({"gopi":{"age":21,"sub":{"math":22,"sci":88}}})
 
-std["mani"]["age"]=99
+# std["mani"]["age"]=99
 
-for i in std.values():
-    avg=0
-    for sub,scr in i["sub"].items():
-        avg+=scr
-    print(avg//3)
+# for i in std.values():
+#     avg=0
+#     for sub,scr in i["sub"].items():
+#         avg+=scr
+#     print(avg//3)
