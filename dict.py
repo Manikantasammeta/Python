@@ -293,7 +293,6 @@ Marks={"Raju":{"Eng":0,"Phy":90,"Math":46},
        "pinky":{"Phy":45,"Eng":65,"Math":0},
        "Sita":{"Math":46,"Eng":50,"Phy":45},
        "Mahesh":{"Eng":0,"Phy":19,"Math":99}}
-
 students=list(Marks.keys())
 print(students)
 print(Marks.items())
