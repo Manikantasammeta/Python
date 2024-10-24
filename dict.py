@@ -200,8 +200,6 @@
 # print(d1)
 # output:{'c': 1, 'b': 3, 'a': 2}
 
-
-
 # d={'b': 3, 'a': 2, 'c': 1}            #  WITH  OUT SORT METHOD IN LIST ASC
 # d1={}                                  # by KEYS
 # key = list(d.keys())
