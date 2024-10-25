@@ -94,13 +94,7 @@ print(b)
 #     print("it is aperfect number")
 # else:
 #     print("it is not a perfect number")
- 
   
-  
-  
-  
-  
-    
 # enter num :28
 # it is aperfect number
 
