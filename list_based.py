@@ -664,6 +664,9 @@
 # print(l.my_list())
 
 
+
+
+
 # enter the len of list :5
 # enter element:1
 # enter element:2

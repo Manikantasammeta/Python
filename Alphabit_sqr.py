@@ -657,7 +657,6 @@
 #   D H K M 
 # E I L N O 
 
-
 # n=int(input("n:"))
 # val=ord("A")+(n-1)
 # m=n
