@@ -12,9 +12,6 @@
 // }
 // // console.log(arr,arr1)
 
-
-
-
 // arr = [5, 6, 1, 2, 3, 4, 7, 9, 8];
 
 // for (let i = 0; i < arr.length - 1; i++) {               #sorting the array
