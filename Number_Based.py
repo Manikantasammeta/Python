@@ -77,9 +77,6 @@ print(b)
 #     p+=1
 # print(b)
 
-
-
-
 # n=int(input("n:"))
 # r=n*n
 # rh= r%10
@@ -87,8 +84,6 @@ print(b)
 #     print("it is Automorphic")
 # else:
 #     print("not a Automorphic")
-
-
 
 # n=int(input("enter num :"))
 # s=0
