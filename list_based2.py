@@ -5,4 +5,3 @@
 #Output ['R:rama', 'R:raju', 'R:raghu', 'M:mani', 'S:sita']   #convertintg the list into list
 
 
-s="1001101000110"
