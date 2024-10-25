@@ -95,6 +95,11 @@ print(b)
 # else:
 #     print("it is not a perfect number")
  
+  
+  
+  
+  
+  
     
 # enter num :28
 # it is aperfect number
