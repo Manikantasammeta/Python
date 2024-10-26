@@ -26,9 +26,6 @@
 #     n=n//16
 # print(hexa)
 
-
-
-
 # n=(input("n:")).upper()
 # dec=0
 # p=0
@@ -40,8 +37,6 @@
 #     dec=rem*16**p+dec
 #     p+=1
 # print(dec)
-
-
 
 
 # n=int(input("n:"))
