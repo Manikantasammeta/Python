@@ -32,8 +32,9 @@
 #     n=int(input("enter a number :"))
 # except:
 #     print("plz enter a integer value input")
-    
-    
+
+
+
 # else:  
 #     v=ord("A")
 #     for i in range(n):
