@@ -45,10 +45,6 @@
 #         print()
 
 n=5
-v=ord("A")+n-1
-for i in range(n):
-    for j in range(n-i):
-        print(chr(v),end=" ")
-        
+for i in range(1,n+1):
+    print((n-i)*" "+i*"* ")
     print()
-    v-=1
