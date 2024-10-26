@@ -22,8 +22,6 @@
 #                                                    random elements by tackingthe user input
 
 
-
-
 # import random as re
 # class list:
 #     def li(self,n):
@@ -59,8 +57,6 @@
 # print(l1)
 
 # ot-->[1, 2, 3, 4, 5]
-
-
 
 
 # l=[11,21,31,41,51]
