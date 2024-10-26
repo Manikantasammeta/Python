@@ -47,14 +47,14 @@
 
 
 
-d= int(input("enter a number ")  )         
-b= ""
-while d > 0:
+# d= int(input("enter a number ")  )         
+# b= ""
+# while d > 0:
     
-    r = d % 2
-    b = str(r) + b
-    d //= 2
-print(b)
+#     r = d % 2
+#     b = str(r) + b
+#     d //= 2
+# print(b)
 
 
 
