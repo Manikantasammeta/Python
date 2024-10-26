@@ -113,11 +113,6 @@
 
 # output:{'b': 3, 'a': 2, 'c': 1}
 
-
-
-
-
-
 # d={'b': 3, 'a': 2, 'c': 1}            #sorting the dict with SORT METHOD IN LIST any method  ASC Order
 # d1={}                                     #by KEYS
 # keys = list(d.keys())
@@ -139,8 +134,6 @@
 
 # output:{'c': 1, 'b': 3, 'a': 2}
 
-
-
 # d={'b': 3, 'a': 2, 'c': 1}            # sorting the dict with SORT METHOD IN LIST Asc Order
 # d1={}                                  # by VALUES
 # val = list(d.values())
@@ -152,6 +145,8 @@
 # print(d1)
 
 # output:{'c': 1, 'a': 2, 'b': 3}
+
+
 
 
 
