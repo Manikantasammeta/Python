@@ -129,10 +129,6 @@
 # not valid
 
 
-
-
-
-
 # s="ManiKanta"
 # s2=""
 # for i in s:
