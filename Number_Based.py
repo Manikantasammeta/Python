@@ -8,6 +8,8 @@
 #     print("it is not a Automorphic number")
 
 
+
+
 # n:5
 # 5
 # it is a Automorphic numbe

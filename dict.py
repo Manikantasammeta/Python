@@ -366,6 +366,8 @@ print(Marks.items())
 
 # std.update({"gopi":{"age":21,"sub":{"math":22,"sci":88}}})
 
+
+
 # std["mani"]["age"]=99
 
 # for i in std.values():
