@@ -24,12 +24,6 @@
 #      [11, 12, 13, 14, 15]
 
 
-
-
-
-
-
-
 # 3.Finding the elements between given two elements and print elements in list
 #find the length of the list
 
