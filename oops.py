@@ -111,3 +111,9 @@ p.Star()
 print("10")
 print()
 p.Rombus()
+
+
+p.Star()
+print("10")
+print()
+p.Rombus()
