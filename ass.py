@@ -50,6 +50,11 @@
 
 
 
+
+
+
+
+
 # 5.write the python logic for given patteren
 
 # n=int(input("n:"))
