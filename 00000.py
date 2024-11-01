@@ -34,11 +34,6 @@
     
     
 
-
-
-
-
-
 # n=5
 # t=n-1 
 # for i in range(n):
