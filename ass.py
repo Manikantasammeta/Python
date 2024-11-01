@@ -8,9 +8,6 @@
 # ot-->[1, 2, 3, 4, 5, 7, 8, 9, 10, 11]
 
 
-
-
-
 # 2.Reversing the elements in list
 
 # l=[11,21,31,41,51]
