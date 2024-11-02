@@ -8,11 +8,6 @@
 
 
 
-
-
-
-
-
 # n=int(input("enter :"))
 # c=0
 # t=0
