@@ -744,15 +744,6 @@
 # Output-->[3, 1, 1, 2, 2, 2]
 
 
-
-
-
-
-
-
-
-
-
 # a=["cat","dog","god","tca","act"]
 # d={}
 # for i in range(len(a)):
