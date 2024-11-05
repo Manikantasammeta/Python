@@ -1,8 +1,6 @@
 # n=input("enter str: ")
 # print("palindrome" if n==n[::-1] else "not a palendrome")                   #palindrome singel line
 
-
-
 # n=int(input("enter a nuber: "))
 # print("prime" if (n%i!=0 for i in range(2,n)) and n>1 else "not aprime")      #prime in one line
 
