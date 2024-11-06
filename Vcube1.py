@@ -24,8 +24,6 @@
 
 #3.Checking The given Password is Strong or not
 
-
-
 # n=input()
 # if len(n)>=8:
 
