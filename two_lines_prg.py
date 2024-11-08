@@ -7,15 +7,6 @@
 # l=[1,2,3,4,5]
 # print("unique" if len(l)==len(set(l)) else "not unique")              #checking unique of list
 
-
-
-
-
-
-
-
-
-
 # import math
 # is_strong_number = lambda n: n == sum(math.factorial(int(digit)) for digit in str(n))    #STRONG NUMBER
 # print(is_strong_number(int(input("enter anumber :"))))
