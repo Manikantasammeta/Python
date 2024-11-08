@@ -173,6 +173,11 @@
 # 171. What is the difference between difference() and difference_update in set Methods?
 # 172. What is the difference between intersection and intersection_update in set Methods?
 # 173. How do you sort() the DICT in Python?
+# 
+# 
+# 
+# 
+# 
 # 174. What is the difference between pop() and popitem() in DICT Methods?
 # 175. How does Setdefault() work in Dict methods?
 # 176. Explain bitwise operators in Python?
