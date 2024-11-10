@@ -201,14 +201,6 @@
 # for i in l[::-1]:
 #     p=d.get(i)
 #     print(i,p)
-
-
-
-
-
-
-
-
     
 # def pri(num):
 #     for d in range(2,num):
