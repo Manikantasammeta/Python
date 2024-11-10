@@ -260,11 +260,6 @@
 # driver = Driver()
 
 
-
-
-
-
-
 # # Sending a message to the Car object through the Driver object
 # driver.drive(car)
 
