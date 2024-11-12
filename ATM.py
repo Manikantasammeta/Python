@@ -6,9 +6,6 @@ print("ENTER ""2"" FOR WITHDRAW MONEY")
 print("ENTER ""3" " FOR DIPOSIT MONEY")
 print("ENTER ""4"" FOR PIN CHANGE")
 print()
-
-
-
 with open("ATM_PS.txt","r+") as file:
     n=file.read()
     pin=int(n)
