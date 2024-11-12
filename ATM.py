@@ -11,7 +11,10 @@ with open("ATM_PS.txt","r+") as file:
     pin=int(n)
 with open("atm.txt","r+") as file:
     current_balance=file.read()
-    
+
+
+
+   
 try:
     n=int(input("ENTER NUMBER:"))
     if n==1:
