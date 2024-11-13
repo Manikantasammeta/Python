@@ -35,6 +35,12 @@
 #      length:5
 
 
+
+
+
+
+
+
 #4. Recursion function
 #Trace the Program and write the output
 
@@ -47,14 +53,6 @@
         
 # fun(5)
 #54321012345
-
-
-
-
-
-
-
-
 
 # 5.write the python logic for given patteren
 
