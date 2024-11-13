@@ -48,6 +48,14 @@
 # fun(5)
 #54321012345
 
+
+
+
+
+
+
+
+
 # 5.write the python logic for given patteren
 
 # n=int(input("n:"))
