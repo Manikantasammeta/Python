@@ -68,7 +68,6 @@
 #         val+=1
 #         if val>ord("Z"): val=ord("A")
 #     print()
-
 # n :5
 
 #     C     
