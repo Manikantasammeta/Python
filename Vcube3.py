@@ -208,6 +208,11 @@
 #                 print(f' {i} x {j} = {res}')
 
 
+
+
+
+
+
 # class inventoryltem:
 #     items=[]
 #     def __init__(self,item_id,name,Qty):
