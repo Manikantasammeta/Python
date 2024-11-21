@@ -1,0 +1,10 @@
+Multimedia is a blend of two or more media such as text, sound, graphics,
+ animation and video, to effectually converse ideas to the users and this c
+ ould be in linear or non-linear form [7]. The application of multimedia 
+ technology to database and IT service management has improved enormously in recent times. 
+ Multimedia system is a distinctive application which is of time-critical in its use in the various areas
+  of computing. The spatial, secular, storage, processing, recovery, grouping and management requirements 
+  of data vary momentously from those that are applied for traditional data [2].
+   Therefore, the purpose of multimedia technology in database management system and in proper
+    management of IT services to clients is to permit for an efficient way of performing these 
+    tasks in all its varied
