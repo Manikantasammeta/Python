@@ -40,6 +40,17 @@ def parse_html(html_content):
 
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
     
 def scrape_website(urls):
     all_products = []
