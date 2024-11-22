@@ -39,18 +39,6 @@ def parse_html(html_content):
     return products
 
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
     
 def scrape_website(urls):
     all_products = []
