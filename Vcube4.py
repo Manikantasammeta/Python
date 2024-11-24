@@ -4,14 +4,6 @@
 #         if i==j or i+j==len(n)-1:
 #             print(n[j],end=" ")
  
- 
- 
- 
- 
- 
- 
- 
- 
             
 #         else:
 #             print(" ",end=" ")
