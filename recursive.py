@@ -63,14 +63,6 @@
 # prime_numbers(int(input("enter a  number :")))
 
 
-
-
-
-
-
-
-
-
 # enter a  number :5
 # 2 3 5 7 11 
 
