@@ -104,17 +104,6 @@
 #     print(f"{number} is not a strong number")
 
 
-
-
-
-
-
-
-
-
-
-
-
 # def f(n):
 #     print(n,end='')                       # some pgr
     
