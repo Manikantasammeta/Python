@@ -209,10 +209,6 @@
 
 
 
-
-
-
-
 # class inventoryltem:
 #     items=[]
 #     def __init__(self,item_id,name,Qty):
