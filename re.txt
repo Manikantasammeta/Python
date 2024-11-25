@@ -1,0 +1,18 @@
+
+
+John Doe’s email is johndoe@gmail.com, which is a valid Gmail address. 
+Jane Smith uses janesmith@web, but it’s not a Gmail address. 
+Alice Wonderland has the email alice_wonderland@gmail.com, which is valid.
+ Bob Builder’s email is bob.bui$lder@gmail.com, but it is invalid because it doesn’t end with @gmail.com. 
+ Charlie Brown lists charliebrown@comic@, which is incorrectly formatted. Eve Online’s email is eve.online@gmail.org, 
+ but it doesn’t qualify as a Gmail address. Foo Bar uses foobar@@gmail.com, 
+ which is invalid due to the double @ symbols. Lara Croft has lara.croft@gmail@raider.com,
+  which is incorrectly formatted. Peter Parker’s email is peterparker@gmail, 
+  but it is incomplete. Bruce Wayne uses brucewayne@batmail.com, 
+  which isn’t a Gmail address. Clark Kent’s email is clark.kent@gmail.com, and it is valid. 
+  Tony Stark lists tony_stark@avengers.email, but it’s not a Gmail address. 
+  Natasha Romanoff uses natasha.romoff@@gmail.gov, 
+  which is invalid due to an extra @ and a non-Gmail domain. 
+  Steve Rogers has steve.rogers@gmail..com, which is invalid because of consecutive dots. 
+  Wanda Maximoff’s email is wanda_maximoff@gmail.com, and it is valid. Lastly, Vision’s email is vision@gmail, 
+  but it is incomplete.

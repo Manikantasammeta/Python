@@ -9,3 +9,12 @@
 #             print(" ",end=" ")
 #     print()
     
+import re
+
+th= open("re.txt","r")
+w=th.readlines()
+for i in w:
+    for j in i.split():
+        matc=re.search(r'[a-zA-Z0-9._%+-]+@gmail\.com',j)
+        if matc:
+            print(j,end=" ")
