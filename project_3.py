@@ -29,4 +29,10 @@ class P1(persion):
 
 p1=P1("MANI","KLJ7654BG",21,"14-04-1999","F")
 
+
+
+
+
+
+
 p1.display()
