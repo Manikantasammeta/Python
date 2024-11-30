@@ -23,6 +23,9 @@ class Number_Series:
 
     def Prime_Number(self):
         while self.n>0:
+    
+    
+    
             
     # def Strong_Number(self):
     #     s=0
