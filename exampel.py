@@ -17,15 +17,6 @@
 # class B(A):
 #     pass
 
-
-
-
-
-
-
-
-
-
 # class C(A):
 #     def method(self):
 #         print("C method")
