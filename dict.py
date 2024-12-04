@@ -282,13 +282,13 @@
 
 # print(d1)
 
-Marks={"Raju":{"Eng":0,"Phy":90,"Math":46},
-       "pinky":{"Phy":45,"Eng":65,"Math":0},
-       "Sita":{"Math":46,"Eng":50,"Phy":45},
-       "Mahesh":{"Eng":0,"Phy":19,"Math":99}}
-students=list(Marks.keys())
-print(students)
-print(Marks.items())
+# Marks={"Raju":{"Eng":0,"Phy":90,"Math":46},
+#        "pinky":{"Phy":45,"Eng":65,"Math":0},
+#        "Sita":{"Math":46,"Eng":50,"Phy":45},
+#        "Mahesh":{"Eng":0,"Phy":19,"Math":99}}
+# students=list(Marks.keys())
+# print(students)
+# print(Marks.items())
 
 # Score=[]
 # for name,mrk in Marks.items():                        # highest Marks
@@ -375,3 +375,19 @@ print(Marks.items())
 #     for sub,scr in i["sub"].items():
 #         avg+=scr
 #     print(avg//3)
+
+
+d={"a":{"d":20,"c":{"e":None},"f":{"g":20,"h":None}},"i":{"j":None,"k":{"l":30,"m":None}}}
+
+def fun(d1):
+    
+    for k,v in d1.items():
+        if type(v)==dict:
+            fun(v)
+        if v==None:
+            print(k)
+    
+                     
+                     
+fun(d)
+                            
