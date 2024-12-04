@@ -5,6 +5,11 @@ class Number_Series:
         self.n=n
 
 
+
+
+
+
+
     def Even (self):
         for i in range(self.n*2-1):
             if i%2==0:
