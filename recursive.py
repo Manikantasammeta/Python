@@ -68,6 +68,12 @@
 
 
 
+
+
+
+
+
+
 # def fact(n,i=1):                  # factorial of a given number with using recursive function
 #     if n!=0:
 #         return n*fact(n=n-1)
