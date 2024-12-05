@@ -3,13 +3,6 @@ class Number_Series:
 
     def __init__(self,n):
         self.n=n
-
-
-
-
-
-
-
     def Even (self):
         for i in range(self.n*2-1):
             if i%2==0:
