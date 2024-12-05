@@ -383,9 +383,7 @@ def fun(d1):
         if type(v)==dict:
             fun(v)
         if v==None:
-            print(k)
-    
-                     
+            print(k)                    
                      
 fun(d)
                             
