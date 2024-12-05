@@ -45,8 +45,6 @@
 #     p+=1
 # print(b)
 
-
-
 # d= int(input("enter a number ")  )         
 # b= ""
 # while d > 0:
