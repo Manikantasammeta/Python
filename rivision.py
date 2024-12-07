@@ -238,6 +238,13 @@
 # print(f"The GCD of the of  {l} is-->  {max(r1)}")
 
 
+
+
+
+
+
+
+
 # s=input("Enter the direction :").upper()
 # l=0
 # r=0
