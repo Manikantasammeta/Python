@@ -272,6 +272,12 @@
 #     if i not in l3:
 #         l3 += [i]
 
+
+
+
+
+
+
 # d1 = {}
 # for i in range(len(l3)):
 #     c = l2.count(l3[i])
