@@ -222,11 +222,6 @@
 #     if n%i==0:
 #         print(i,end=" ")
 
-
-
-
-
-
 # n=int(input("enter how many elements :"))
 # l=[int(input("enter the element :")) for i in range(n)]
 # m =min(l)
