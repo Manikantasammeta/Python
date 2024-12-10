@@ -3,6 +3,16 @@
 #                THE RESPECTIVE OUTPUT WILL BE DISPLAYED AT THE BOTTOM OF THE CODE. CHECK IT ONCE.
 
 
+
+
+
+
+
+
+
+
+
+
 # L=["rama","raju","raghu","mani","sita"]
 
 # print([ i[0].upper()+":"+i for i in L])
