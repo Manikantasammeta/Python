@@ -65,8 +65,6 @@
 
 # enter a  number :5
 # 2 3 5 7 11 
-
-
 # def fact(n,i=1):                  # factorial of a given number with using recursive function
 #     if n!=0:
 #         return n*fact(n=n-1)
@@ -75,9 +73,6 @@
 
 # enter a number: 5
 # 120
-
-
-
 # def is_strong_number(num, total=0):              
 #     def factorial(n):
 #         if n == 0:
