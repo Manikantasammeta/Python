@@ -478,10 +478,6 @@
 
 
 
-
-
-
-
 # while len(l)<fac:
 #     s1=""
 #     while len(s1)<len(s):
