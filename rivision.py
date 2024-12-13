@@ -144,6 +144,11 @@
 #     print("ele no in list")
 
 
+
+
+
+
+
 # n=int(input("len of list:"))
 # l=[int(input("enter ele: ")) for i in range(n)]
 # print(l)
