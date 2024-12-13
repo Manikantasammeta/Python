@@ -476,6 +476,12 @@
 #     fac=l1*fac
 #     l1-=1
 
+
+
+
+
+
+
 # while len(l)<fac:
 #     s1=""
 #     while len(s1)<len(s):
