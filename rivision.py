@@ -20,6 +20,8 @@
 #     print( )
 
 
+
+
 # s=input("enter str :")
 # if (s>="A" and s<="Z") or (s>="a" and s<="z"):
 #     if s in ['a','e','i','o','u','A','E','I','O','U']:
