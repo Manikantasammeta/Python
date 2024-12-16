@@ -18,10 +18,6 @@
 #         print(f'{n} is  not divisibel by 10')
 # else:
 #     print( )
-
-
-
-
 # s=input("enter str :")
 # if (s>="A" and s<="Z") or (s>="a" and s<="z"):
 #     if s in ['a','e','i','o','u','A','E','I','O','U']:
