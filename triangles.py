@@ -16,11 +16,6 @@
 #     val=a+1
 #     if val>ord("Z"): val=ord("A")
 
-
-
-
-
-
 # n :5
 # A F J M O 
 # B G K N 
