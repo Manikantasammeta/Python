@@ -1,4 +1,5 @@
 class bike:
+    
     Brand="HONDA"
     Model="F7"
     def __init__(self,name,color,extra_fitting):
